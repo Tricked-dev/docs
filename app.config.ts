@@ -7,6 +7,11 @@ export default defineAppConfig({
     socials: {
       twitter: "trickeddev",
       github: "tricked-dev",
+      discord: {
+        label: "Discord",
+        icon: "mdi:discord",
+        href: "https://discord.gg/mY8zTARu4g",
+      },
       ko_fi: {
         label: "Ko-Fi",
         icon: "simple-icons:kofi",
